@@ -1,0 +1,47 @@
+{
+    padding: 0;
+    margin: 0;
+
+}
+main{
+    background-image: url("backmain.jpg");
+    height: 100vh;
+    
+}
+.headerToDay{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20%;
+    
+}
+.weather{
+    width: 50%;
+    height: 60vh;
+
+}
+.toDay{
+    height: 50vh;
+border: 1px solid orange;
+}
+.maxMinTemp img{
+    width: 30px;
+}
+.maxMinTemp{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+.mainToDay{
+    display: flex;
+    justify-content: space-between;
+}
+.information{
+    width: 20%;
+}
+.icon{
+    width: 50%;
+}
+.temp{
+    width: 28%;
+}
